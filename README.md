@@ -4,6 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg">
 
+
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [Aora](https://github.com/klenam0/AORA-react-native-)
@@ -27,4 +28,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=klenam0&show_icons=true&locale=en" alt="klenam0" /></p>
 
+<img align="right" alt="Coding" width="450" src="https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_600_2000/0/1656679844338?e=2147483647&v=beta&t=LXuiCyZghSphTvRRmE7VHke8tY9dUz1o6NTErlbbItQ">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=klenam0&" alt="klenam0" /></p>
