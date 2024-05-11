@@ -1,6 +1,6 @@
-![MasterHead](https://quotefancy.com/media/wallpaper/3840x2160/1700728-Linus-Torvalds-Quote-Talk-is-cheap-Show-me-the-code.jpg)
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Klenam</h1>
-<h3 align="center">A passionate fullstack developer from Ghana</h3>
+<h3 align="center">A passionate fullstack developer from Ghana 🇬🇭</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
