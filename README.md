@@ -1,4 +1,4 @@
-
+![MasterHead](https://quotefancy.com/media/wallpaper/3840x2160/1700728-Linus-Torvalds-Quote-Talk-is-cheap-Show-me-the-code.jpg)
 <h1 align="center">Hi 👋, I'm Klenam</h1>
 <h3 align="center">A passionate fullstack developer from Ghana</h3>
 
