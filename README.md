@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **cedeegbe@gmail.com**
 
-- ⚡ Fun fact **I ready to adapt and learn new stuff based on the job description**
+- ⚡ Fun fact **I'm ready to adapt and learn new stuff based on the job description**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
