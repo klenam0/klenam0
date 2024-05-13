@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I'm ready to adapt and learn new stuff based on the job description**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect With Me:</h3>
 <p align="left">
 </p>
 
