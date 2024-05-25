@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **JavaScript NestJs React Native**
 
-- 💬 Ask me about **React , Frontend Applications , Mobile Apps .**
+- 💬 Ask me about **React , React Native , Frontend Applications , Backend , UI/UX Design, Mobile Apps .**
 
 - 📫 How to reach me **cedeegbe@gmail.com**
 
