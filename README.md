@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **JavaScript NestJs React Native**
 
-- 💬 Ask me about **React , Frontend Applications , Mobile Apps**
+- 💬 Ask me about **React , Frontend Applications , Mobile Apps .**
 
 - 📫 How to reach me **cedeegbe@gmail.com**
 
-- ⚡ Fun fact **I'm ready to adapt and learn new stuff based on the job description**
+- ⚡ Fun fact **I'm ready to adapt and learn new stuff based on the job description .**
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
